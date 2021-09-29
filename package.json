@@ -8,6 +8,9 @@
     "start": "node server.js",
     "lite-server": "lite-server"
   },
+  "engines": {
+    "node": "14.17.5"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
